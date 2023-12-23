@@ -1,3 +1,7 @@
+HomePage:
+![image](https://github.com/INVINCIBLE9421/grid_design_reactJS/assets/109572056/3c2d591b-f2d7-41b3-9110-97333d46913a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
